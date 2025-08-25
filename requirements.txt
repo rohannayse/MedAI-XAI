@@ -8,7 +8,6 @@ streamlit-elements>=0.1.0
 # Deep Learning and AI
 torch>=2.0.0
 torchvision>=0.15.0
-pytorch-grad-cam>=1.4.8
 torchxrayvision>=1.0.1
 
 # Medical Imaging
