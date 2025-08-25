@@ -6,6 +6,9 @@ streamlit-shadcn-ui>=0.1.0
 streamlit-elements>=0.1.0
 
 # Deep Learning and AI
+torch
+torchvision
+torchaudio
 torch>=2.0.0
 torchvision>=0.15.0
 pytorch-grad-cam>=1.4.8
