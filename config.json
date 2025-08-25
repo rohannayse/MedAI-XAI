@@ -1,0 +1,9 @@
+
+{
+  "model": {"architecture": "ResNet18", "num_classes": 2, "input_size": 224},
+  "trust_engine": {
+    "temperature": 1.5, "consistency_k": 5,
+    "weights": {"confidence": 0.4, "consistency": 0.3, "coherence": 0.3}
+  },
+  "dashboard": {"trust_threshold": 0.7, "processing_timeout": 10}
+}
